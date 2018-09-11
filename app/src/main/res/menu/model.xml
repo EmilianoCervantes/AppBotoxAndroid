@@ -1,0 +1,34 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 3 items por 3 modelos
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:icon="@android:drawable/ic_menu_gallery"
+
+    -->
+    <item
+        android:id="@+id/model_1"
+        android:icon="@drawable/number1"
+        android:orderInCategory="200"
+        android:showAsAction="ifRoom"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:title="@string/namemodelone" />
+    <item
+        android:id="@+id/model_2"
+        android:icon="@drawable/number2"
+        android:orderInCategory="300"
+        android:showAsAction="ifRoom"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:title="@string/namemodeltwo" />
+    <item
+        android:id="@+id/model_3"
+        android:icon="@drawable/number3"
+        android:orderInCategory="400"
+        android:showAsAction="ifRoom"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        android:title="@string/namemodelthree" />
+</menu>

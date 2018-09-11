@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppBotox</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="infoallergen">Info Allergen</string>
+    <string name="infobotox">Info Botox</string>
+    <string name="apliczones">Zonas de Aplicación</string>
+    <string name="placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="regresar">Regresar</string>
+    <string name="namemodelone">Model 1</string>
+    <string name="namemodeltwo">Model 2</string>
+    <string name="namemodelthree">Model 3</string>
+</resources>
